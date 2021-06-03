@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The pin--makers case in opposition to Mr. Killigrew's monopolizing bill.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28132</idno><idno type="EEBO-CITATION">99885932</idno>
+  <idno type="VID">186288</idno>
+  <idno type="EEBO-PROQUEST">2248536088</idno>
+  
+            <idno type="STC">Wing P2278</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.13[88]</idno>
+            <idno type="STC">ESTC R225204</idno>
+            <idno type="PROQUEST">ocm99885932</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885932e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28132)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186288)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C4:1[85])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The pin--makers case in opposition to Mr. Killigrew's monopolizing bill.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from  Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Pins and needles --  England --  Early works to 1800.</term>
+               <term type="topical_term">Foreign trade regulation --  England --  Early works to 1800.</term>
+               <term type="topical_term">England and Wales --  Commerce --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  London --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:186288:1"/>
+            <head>
+               <hi>THE PIN-MAKERS CASE</hi> In Opposition to Mr. <hi>KILLIGREW</hi>'S Monopolizing BILL.</head>
+            <p>THE Pin-makers were Incorporated by King <hi>James</hi> the I. and greatly encouraged by succeeding Princes, so that the Art of Pin-making is at this time arrived to a greater Perfection than ever in this Kingdom, and the <hi>Pin-makers</hi> are able to make better Wares at easier Rates than any foreign Nati<g ref="char:EOLhyphen"/>on; whereby their Trade at home is secured from the <hi>Intrusion of Foreigners,</hi> while they quietly carry on a very considerable Trade abroad into almost all the parts of the World, there being exported at least <hi>a third part</hi> of what Pins are made in <hi>England;</hi> the Trade of which Manufacture being only to be improved by a free exercise thereof, which the intended Act will altogether destroy by setting up <hi>so gross a Monopoly</hi> in so considerable a Ma<g ref="char:EOLhyphen"/>nufacture which must inevitably reduce the Pin-makers to the same condition the <hi>Card-makers</hi> are now brought to, by the like means, in the Reign of King <hi>Charles</hi> the II. even to the ruine of their Trade and themselves together.</p>
+            <p>
+               <label>Objection,</label> But it may be Objected this is no <hi>Monopoly</hi> but only a good design to take care of the Poor, whereof there are great Numbers in that Company.</p>
+            <p n="1">
+               <label> Resp. </label>I. A great cause hereof is from themselves, the Company generally taking poor Peoples Children Apprentices, who when they come out of their times presently set up for Masters, without Stock or Credit, and are thereby forced to under-sell their Goods by reason of their necessities, which might be prevented, and they get a good Livelihood, would they continue and work Journey-work; and by this means the Number of Apprentices are increased to such an unlimited Number, notwithstanding the Companies care in restraining them, many Master-Pin-makers not being able now to procure sufficient hands to work their Goods.</p>
+            <p n="2">
+               <label>Resp. </label>II. This is a plain <hi>Monopoly,</hi> if these Insidents be considered.</p>
+            <p n="1">1. The Inhancing the Price very extravagantly to the Burthen of the Subject, and Inriching some private Persons, as appears by the advance of near 40000 <hi>l per Annum</hi> in the Pins.</p>
+            <p n="2">2. By discouraging this Art in giving encouragement to Foreigners to stock our Market by putting the dealers in these Goods to seek to be supplyed at easier rates than is proposed by this Act, if it pass, as was done in the like case of the <hi>Card-makers.</hi>
+            </p>
+            <p n="3">3. By improverishing the makers by stinting them in their Work, and obliging them to sit still at the pleasure of the <hi>Ʋndertakers,</hi> a Method very strange to enable the Poor workmen to live, who cannot now the Trade is Free and Open.</p>
+            <p n="4">4. By causi<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Commodity to be worse made, which will necessarily ensue, because the Prices being set, the Workers are to have a certain Price for such sorts, good or bad, and by that means the Pins will be ill made; and so, in a short time, will deservedly lose their Reputation both at home and abroad, the natural consequence whereof will be to give this so considerable a Trade to the <hi>Dutch.</hi>
+            </p>
+            <p>Besides, many other inconveniences will necessarily attend this Design, if this Bill should pass, as is shewn more particularly in the Opponent<hi>'s</hi> Reasons, and many more will be made appear, if they may <hi>be Heard,</hi> both in reference to the Merchant, Worker, and Buyer.</p>
+            <p>
+               <table>
+                  <head>A Scheme of the Advance of the Prices of Pins by Mr. <hi>Killigrew,</hi> to what they now are sold at.</head>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label" cols="3">
+                        <hi>At the present Price.</hi>
+                     </cell>
+                     <cell role="label" cols="3">
+                        <hi>At Mr.</hi> Killigrew<hi>'s Price.</hi>
+                     </cell>
+                     <cell role="label" cols="3">
+                        <hi>The Advance thereby.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label">Names and Weights.</cell>
+                     <cell>Best</cell>
+                     <cell>2d sort.</cell>
+                     <cell>3d sort.</cell>
+                     <cell>Best.</cell>
+                     <cell>2d sort.</cell>
+                     <cell>3d sort.</cell>
+                     <cell>Best.</cell>
+                     <cell>2d sort.</cell>
+                     <cell>3d sort.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>l. s. d.</hi>
+                     </cell>
+                     <cell>
+                        <hi>l. s. d</hi>
+                     </cell>
+                     <cell>
+                        <hi>l. s. d.</hi>
+                     </cell>
+                     <cell>
+                        <hi>l. s. d.</hi>
+                     </cell>
+                     <cell>
+                        <hi>l. s. d.</hi>
+                     </cell>
+                     <cell>
+                        <hi>l. s. d.</hi>
+                     </cell>
+                     <cell>
+                        <hi>l. s. d.</hi>
+                     </cell>
+                     <cell>
+                        <hi>l. s. d.</hi>
+                     </cell>
+                     <cell>
+                        <hi>l. s. d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Two Pounds, Four Ounces,</hi>
+                     </cell>
+                     <cell>0 6 0</cell>
+                     <cell>0 5 0</cell>
+                     <cell>0 4 6</cell>
+                     <cell>0 10 0</cell>
+                     <cell>0 9 0</cell>
+                     <cell>0 8 6</cell>
+                     <cell>0 4 0</cell>
+                     <cell>0 4 0</cell>
+                     <cell>0 4 0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Two Pounds, Eight Ounces,</hi>
+                     </cell>
+                     <cell>0 6 6</cell>
+                     <cell>0 6 0</cell>
+                     <cell>0 5 6</cell>
+                     <cell>0 10 05</cell>
+                     <cell>0 09 11</cell>
+                     <cell>0 9 5</cell>
+                     <cell>0 4 0</cell>
+                     <cell>0 3 11</cell>
+                     <cell>0 3 11</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Two Pounds, Twelve Ounces,</hi>
+                     </cell>
+                     <cell>0 7 0</cell>
+                     <cell>0 6 6</cell>
+                     <cell>0 6 0</cell>
+                     <cell>0 10 10</cell>
+                     <cell>0 10 4</cell>
+                     <cell>0 9 10</cell>
+                     <cell>0 3 10</cell>
+                     <cell>0 3 10</cell>
+                     <cell>0 3 10</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Three Pounds.</hi>
+                     </cell>
+                     <cell>0 7 6</cell>
+                     <cell>0 7 0</cell>
+                     <cell>0 6 6</cell>
+                     <cell>0 11 2</cell>
+                     <cell>0 10 8</cell>
+                     <cell>0 10 2</cell>
+                     <cell>0 3 8</cell>
+                     <cell>0 3 8</cell>
+                     <cell>0 3 8</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Three Pounds, Four Ounces,</hi>
+                     </cell>
+                     <cell>0 8 0</cell>
+                     <cell>0 7 6</cell>
+                     <cell>0 7 0</cell>
+                     <cell>0 11 8</cell>
+                     <cell>0 11 2</cell>
+                     <cell>0 10 8</cell>
+                     <cell>0 3 8</cell>
+                     <cell>0 3 8</cell>
+                     <cell>0 3 8</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Three Pounds, Eight Ounces,</hi>
+                     </cell>
+                     <cell>0 8 6</cell>
+                     <cell>0 8 0</cell>
+                     <cell>0 7 6</cell>
+                     <cell>0 12 0</cell>
+                     <cell>0 11 6</cell>
+                     <cell>0 11 0</cell>
+                     <cell>0 3 6</cell>
+                     <cell>0 3 6</cell>
+                     <cell>0 3 6</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Three Pounds, Twelve Ounces,</hi>
+                     </cell>
+                     <cell>0 9 0</cell>
+                     <cell>0 8 6</cell>
+                     <cell>0 8 0</cell>
+                     <cell>0 12 6</cell>
+                     <cell>0 12 0</cell>
+                     <cell>0 11 6</cell>
+                     <cell>0 3 6</cell>
+                     <cell>0 3 6</cell>
+                     <cell>0 3 6</cell>
+                  </row>
+                  <row>
+                     <cell role="label">Short Whites.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>One Pound.</hi>
+                     </cell>
+                     <cell>0 6 0</cell>
+                     <cell>0 4 9</cell>
+                     <cell>0 4 6</cell>
+                     <cell>0 8 2</cell>
+                     <cell>0 7 8</cell>
+                     <cell>0 7 2</cell>
+                     <cell>0 3 2</cell>
+                     <cell>0 2 11</cell>
+                     <cell>0 2 8</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>One Pound, Six Ounces,,</hi>
+                     </cell>
+                     <cell>0 5 6</cell>
+                     <cell>0 5 0</cell>
+                     <cell>0 4 9</cell>
+                     <cell>0 8 8</cell>
+                     <cell>0 8 2</cell>
+                     <cell>0 7 8</cell>
+                     <cell>0 3 2</cell>
+                     <cell>0 3 2</cell>
+                     <cell>0 2 11</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>One Pound, Ten Ounces,</hi>
+                     </cell>
+                     <cell>0 5 9</cell>
+                     <cell>0 5 6</cell>
+                     <cell>0 5 0</cell>
+                     <cell>0 9 0</cell>
+                     <cell>0 8 6</cell>
+                     <cell>0 8 0</cell>
+                     <cell>0 3 0</cell>
+                     <cell>0 <gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>0 3 0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lillikins.</hi>
+                     </cell>
+                     <cell>0 6 6</cell>
+                     <cell>0 6 0</cell>
+                     <cell>0 5 6</cell>
+                     <cell>0 9 0</cell>
+                     <cell>0 8 6</cell>
+                     <cell>0 8 0</cell>
+                     <cell>0 2 6</cell>
+                     <cell>0 2 6</cell>
+                     <cell>0 2 6</cell>
+                  </row>
+                  <row>
+                     <cell role="label">Middle Whites.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Two Pound, Four Ounces,</hi>
+                     </cell>
+                     <cell>0 7 6</cell>
+                     <cell>0 7 0</cell>
+                     <cell>0 6 6</cell>
+                     <cell>0 10 2</cell>
+                     <cell>0 9 8</cell>
+                     <cell>0 9 2</cell>
+                     <cell>0 2 8</cell>
+                     <cell>0 2 8</cell>
+                     <cell>0 2 8</cell>
+                  </row>
+                  <row>
+                     <cell role="label">Double long Whites <hi>alias.</hi> Calkins,</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Three Pounds, Eight Ounces,</hi>
+                     </cell>
+                     <cell>0 8 6</cell>
+                     <cell>0 8 0</cell>
+                     <cell>0 7 6</cell>
+                     <cell>0 12 4</cell>
+                     <cell>0 11 10</cell>
+                     <cell>0 11 4</cell>
+                     <cell>0 3 10</cell>
+                     <cell>0 3 10</cell>
+                     <cell>0 3 10</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Four Pounds,</hi>
+                     </cell>
+                     <cell>0 9 6</cell>
+                     <cell>0 9 0</cell>
+                     <cell>0 8 6</cell>
+                     <cell>0 13 1</cell>
+                     <cell>12 7</cell>
+                     <cell>0 12 1</cell>
+                     <cell>0 3 7</cell>
+                     <cell>0 3 7</cell>
+                     <cell>0 3 7</cell>
+                  </row>
+                  <row>
+                     <cell role="label">Packets.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Nine Ounces,</hi>
+                     </cell>
+                     <cell>0 12 0</cell>
+                     <cell>0 11 6</cell>
+                     <cell>0 11 0</cell>
+                     <cell>0 16 8</cell>
+                     <cell>0 16 2</cell>
+                     <cell>0 15 8</cell>
+                     <cell>0 4 8</cell>
+                     <cell>0 4 8</cell>
+                     <cell>0 4 8</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Eleven Ounces,</hi>
+                     </cell>
+                     <cell>0 14 0</cell>
+                     <cell>0 13 5</cell>
+                     <cell>0 13 0</cell>
+                     <cell>1 0 0</cell>
+                     <cell>0 19 6</cell>
+                     <cell>0 19 0</cell>
+                     <cell>0 6 0</cell>
+                     <cell>0 6 6</cell>
+                     <cell>0 6 0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thirteen Ounces,</hi>
+                     </cell>
+                     <cell>0 16 0</cell>
+                     <cell>0 15 6</cell>
+                     <cell>0 15 0</cell>
+                     <cell>1 3 6</cell>
+                     <cell>1 3 0</cell>
+                     <cell>1 2 6</cell>
+                     <cell>0 7 6</cell>
+                     <cell>0 7 6</cell>
+                     <cell>0 7 6</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sixteen Ounces,</hi>
+                     </cell>
+                     <cell>0 19 0</cell>
+                     <cell>0 18 6</cell>
+                     <cell>0 18 0</cell>
+                     <cell>1 8 10</cell>
+                     <cell>1 8 2</cell>
+                     <cell>1 7 10</cell>
+                     <cell>0 9 10</cell>
+                     <cell>0 9 8</cell>
+                     <cell>0 9 10</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Twenty Ounces,</hi>
+                     </cell>
+                     <cell>1 4 0</cell>
+                     <cell>1 3 6</cell>
+                     <cell>1 3 0</cell>
+                     <cell>1 17 6</cell>
+                     <cell>1 17 0</cell>
+                     <cell>1 16 6</cell>
+                     <cell>0 13 6</cell>
+                     <cell>0 13 6</cell>
+                     <cell>0 13 6</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Twenty Four Ounces,</hi>
+                     </cell>
+                     <cell>1 16 0</cell>
+                     <cell>1 15 6</cell>
+                     <cell>1 15 0</cell>
+                     <cell>2 7 0</cell>
+                     <cell>2 6 0</cell>
+                     <cell>2 6 0</cell>
+                     <cell>0 11 0</cell>
+                     <cell>0 11 0</cell>
+                     <cell>0 11</cell>
+                  </row>
+                  <row>
+                     <cell role="label">Spanish Pins,</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Six Pounds,</hi>
+                     </cell>
+                     <cell>0 12 0</cell>
+                     <cell>0 11 6</cell>
+                     <cell>0 11 0</cell>
+                     <cell>0 16 8</cell>
+                     <cell>0 16 2</cell>
+                     <cell>0 15 8</cell>
+                     <cell>0 4 8</cell>
+                     <cell>0 4 8</cell>
+                     <cell>0 4 8</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Seven Pounds,</hi>
+                     </cell>
+                     <cell>0 14 0</cell>
+                     <cell>0 13 6</cell>
+                     <cell>0 13 0</cell>
+                     <cell>0 19 0</cell>
+                     <cell>0 18 6</cell>
+                     <cell>0 18 0</cell>
+                     <cell>0 5 0</cell>
+                     <cell>0 5 0</cell>
+                     <cell>0 5 0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Eight Pounds,</hi>
+                     </cell>
+                     <cell>0 16 0</cell>
+                     <cell>0 15 6</cell>
+                     <cell>0 15 0</cell>
+                     <cell>1 1 0</cell>
+                     <cell>1 0 6</cell>
+                     <cell>1 0 0</cell>
+                     <cell>0 5 0</cell>
+                     <cell>0 5 0</cell>
+                     <cell>0 5 0</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
